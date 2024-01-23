@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3B53DAB3-51EA-4CBA-B137-4AB3930478EA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Roman PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Roman/Custom/Converter.cs">
+    <Files>
+      <File FileName="Roman/App.xaml.cs" Line="10" Column="3" />
+      <File FileName="Roman/App.xaml" Line="7" Column="7" />
+      <File FileName="Roman/MainPage.xaml.cs" Line="13" Column="21" />
+      <File FileName="Roman/Custom/Converter.cs" Line="4" Column="16" />
+      <File FileName="Roman/MainPage.xaml" Line="17" Column="118" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Roman" expanded="True">
+            <Node name="Roman" expanded="True">
+              <Node name="Custom" expanded="True">
+                <Node name="Converter.cs" selected="True" />
+              </Node>
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
