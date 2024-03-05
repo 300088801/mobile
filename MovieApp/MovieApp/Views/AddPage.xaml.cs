@@ -16,7 +16,7 @@ public partial class AddPage : ContentPage
 		nm.Title = txtTitle.Text;
 		nm.Rating = txtRating.Text;
 
-		App.MovieList.Add(nm);
+		App.MovieList.SaveMovie(nm);
 
 		txtTitle.Text = "";
 		txtRating.Text = "";

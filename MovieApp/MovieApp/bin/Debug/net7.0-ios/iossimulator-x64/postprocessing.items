@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>MovieApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/MovieApp/MovieApp/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/MovieApp/MovieApp/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>MovieApp.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/MovieApp/MovieApp</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/MovieApp/MovieApp</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>
